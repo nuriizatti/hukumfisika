@@ -1,0 +1,106 @@
+[
+        {
+            "name": "Hukum Archimedes",
+            "description": "yang bunyi hukumnya adalah “Jika sebuah benda dicelupkan ke dalam zat cair, maka benda tersebut akan mendapat gaya yang disebut gaya apung (gaya ke atas) sebesar berat zat cair yang dipindahkannya”
+Hukum Archimedes ditemukan oleh ilmuan Yunani yang bernama Archimedes. Hukum ini menjelaskan hubungan gaya berat dan gaya ke atas pada suatu benda jika dimasukkan ke dalam air. Akibat adanya gaya angkat ke atas (gaya apung), benda yang ada didalam zat cair beratnya akan berkurang. Sehingga benda yang diangkat dalam air akan terasa lebih ringan dibandingankan ketika diangkat di darat.",
+            "img": "https://i2.wp.com/www.studiobelajar.com/wp-content/uploads/2017/02/penerapan-hukum-archimedes-pada-kapal-selam.jpg?resize=506%2C322"
+        },
+	
+	 {
+            "name": "Hukum Bernouilli",
+            "description": "yang hukumnya berbunyi “Tekanan fluida di tempat yang kecepatannya tinggi lebih kecil daripada di tempat yang kecepatannya lebih rendah”
+Agar hukum bernoulli dapat dipakai dan diterapkan, maka diperlukan asumsi-asumsi yang mengenai fluida kerjanya, diantaranya adalah: 
+Fluida tidak dapat dimampatkan (incompressible),Fluida tidak memiliki viskositas (inviscid)., Aliran Fluida tidak berubah terhadap waktu (steady), Aliran fluida laminar (bersifat tetap, tidak ada pusaran), Tidak ada kehilangan energi akibat gesekan antara fluida dan dinding, Tidak ada kehilangan energi akibat turbulen, dan Tidak ada energi panas yang ditransfer pada fluida baik sebagai keuntungan ataupun kerugian panas.",
+            "img": "https://gpstracker.co.id/wp-content/uploads/2018/11/Hukum-Bernoulli.png"
+        },
+	
+	{
+            "name": "Hukum Boyle-Gay-Lussac",
+            "description": "Bunyi Hukum Boyle-Gay-Lussac :
+“Pada suhu konstan, tekanan gas di dalam ruang tertutup berbanding terbalik dengan volumenya. Pada tekanan konstan, volume gas berbanding lurus dengan suhunya. Pada volume konstan, tekanan gas berbanding lurus dengan suhunya”
+Hukum Boyle-Gay Lussac secara matematis dituliskan sebagai berikut :
+dimana :
+T1 = suhu awal (K)
+T2 = suhu akhir (K)
+V1 = volume awal (m³)
+V2 = volume akhir (m³)
+P1 = tekanan awal (N/m²)
+P2 = tekanan akhir (N/m²)
+Persamaan di atas hanya digunakan pada keadaan gas yang massanya tetap atau
+jumlah partikel konstan dalam ruang tertutup rapat. Sedangkan pada
+peristiwa dimana jumlah partikel gas dalam wadah berubah, persamaan
+tersebut tidak berlaku.",
+            "img": "http://2.bp.blogspot.com/-NMj2nbVyqGg/VKphHseQumI/AAAAAAAAAg8/URcwwGuhmZA/s1600/015-hukum-boyle-gay-lussac-rumus-persamaan-gas-ideal.jpg"
+        },
+	
+	 {
+            "name": "Hukum Coulomb",
+            "description": "Bunyi Hukum Couloumb :
+“Besar gaya tolak-menolak atau tarik-menarik pada suatu benda yang memiliki muatan listrik sebanding dengan hasil kali besar muatan listrik kedua benda dan berbanding terbalik dengan kuadrat jarak kedua benda tersebut”
+Hukum ini menyatakan apabila terdapat dua buah titik muatan maka akan timbul gaya di antara keduanya, yang besarnya sebanding dengan perkalian nilai kedua muatan dan berbanding terbalik dengan kuadrat jarak antar keduanya . Interaksi antara benda-benda bermuatan (tidak hanya titik muatan) terjadi melalui gaya tak-kontak yang bekerja melampaui jarak separasi.
+Adapun hal lain yang perlu diperhatikan adalah bahwa arah gaya pada masing-masing muatan terletak selalu sepanjang garis yang menghubungkan kedua muatan tersebut . Gaya yang timbul dapat membuat kedua titik muatan saling tarik-menarik atau saling tolak-menolak, tergantung nilai dari masing-masing muatan. Muatan sejenis (bertanda sama) akan saling tolak-menolak, sedangkan muatan berbeda jenis akan saling tarik-menarik.
+",
+            "img": "https://rumus.co.id/wp-content/uploads/2019/05/Bunyi-Hukum-Coulomb.jpg"
+        },
+	
+	        {
+            "name": "Hukum Dalton",
+            "description": "Bunyi Hukum Dalton :
+“Jika dua unsur membentuk lebih dari satu senyawa, maka salah satu unsur yang bergabung dengan massa unsur yang lain yang dibuat tetap, berbanding kelipatan bilangan bulat dan sederhana”
+Hukum ini menyatakan bahwa apabila dua unsur bereaksi membentuk dua atau lebih senyawa, maka perbandingan berat salah satu unsur yang bereaksi dengan berat tertentu dari unsur yang lain pada kedua senyawa selalu merupakan perbandingan bilangan bulat sederhana.Misalnya karbon bereaksi dengan oksigen membentuk karbondioksida (CO2) dan karbonmonoksida (CO). Jika jumlah karbon yang bereaksi pada masing-masing adalah 1 gram, maka diamati bahwa pada karbonmonoksida yang terbentuk akan terdapat 1,33 gram oksigen dan 2,67 gram oksigen pada karbondioksida. Perbandingan massa oksigen mendekati 2:1,yang perbandingan bilangan bulat sederhana, mematuhi hukum perbandingan berganda. Pengamatan serupa juga terjadi pada reaksi-reaksi lain, seperti hidrogen dan oksigen membentuk air (H2O) dan hidrogen peroksida (H2O2). Jika hidrogen yang bereaksi masing-masing 1 gram, H2O yang terbentuk akan mengandung 4 gram oksigen, dan 8 gram pada H2O2.
+",
+            "img": "https://rahmikimia.files.wordpress.com/2011/06/bagan-6-14-300x271.jpg?w=645"
+        },
+	
+	 {
+            "name": "Hukum Faraday",
+            "description": "a. Bunyi Hukum Faraday 1
+“Jika sebuah penghantar memotong garis-garis gaya dari suatu medan magnetik (flux) yang konstan, maka pada penghantar tersebut akan timbul tegangan induksi”
+b. Bunyi Hukum Faraday 2
+“Perubahan flux medan magnetik didalam suatu rangkaian bahan penghantar, akan menimbulkan tegangan induksi pada rangkaian tersebut”
+Dalam percobaan Faraday atau sering dikenal dengan istilah Eksperimen Faraday ini, Michael Faraday mengambil sebuah magnet dan sebuah kumparan yang terhubungkan ke galvometer. Pada awalnya, magnet diletakkan agak berjauhan dengan kumparan sehingga tidak ada defleksi dari galvometer. Jarum pada galvometer tetap menunjukan angka 0. Ketika magnet bergerak masuk ke dalam kumparan, jarum pada galvometer juga bergerak menyimpang ke satu arah tertentu (ke kanan). Pada saat magnet didiamkan pada posisi tersebut, jarum pada galvometer bergerak kembali ke posisi 0. Namun ketika magnet digerakan atau ditarik menjauhi kumparan, terjadi defleksi pada galvometer, jarum pada galvometer bergerak menyimpang berlawanan dengan arah sebelumnya (ke kiri). Pada saat magnet didiamkan lagi, jarum pada galvometer kembali ke posisi 0. Demikian juga apabila yang bergerak adalah Kumparan, tetapi Magnet pada posisi tetap, galvometer akan menunjukan defleksi dengan cara yang sama.  Dari percobaan Faraday tersebut juga ditemukan bahwa semakin cepat perubahan medan magnet semakin besar pula gaya gerak listrik yang diinduksi oleh kumparan tersebut.",
+            "img": "https://teknikelektronika.com/wp-content/uploads/2017/08/Pengertian-Hukum-Faraday-dan-Bunyi-Hukum-Faraday.jpg"
+        },
+	
+	{
+            "name": "Hukum Galilei",
+            "description": "Bunyi Hukum Galilei :
+a. Tempo ayunan tidak bergantung dari besarnya amplitudo (jarak ayunan), asal amplitudo tersebut tidak terlalu besar.
+b. Tempo ayunan tidak bergantung dari beratnya bandulan ayunan.
+c. Tempo ayunan adalah sebanding-selaras dengan akar dari panjangnya bandulan ayunan.
+d. Tempo ayunan adalah sebanding-sebalik dengan akar dari percepatan yang disebabkan oleh gaya berat.
+",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Simple_gravity_pendulum.svg/1200px-Simple_gravity_pendulum.svg.png"
+        },
+	
+	 {
+            "name": "Hukum Kirchhoff",
+            "description": "a. Bunyi Hukum Kirchhoff 1
+Arus Total yang masuk melalui suatu titik percabangan dalam suatu rangkaian listrik sama dengan arus total yang keluar dari titik percabangan tersebut
+b. Bunyi Hukum Kirchhoff 2
+Total Tegangan (beda potensial) pada suatu rangkaian tertutup adalah nol.",
+            "img": "https://i1.wp.com/www.studiobelajar.com/wp-content/uploads/2017/05/contoh-rangkaian-hukum-kirchoff.png?resize=244%2C155"
+        },
+
+	{
+            "name": "hukum Newton",
+            "description": "a. Bunyi Hukum Newton 1
+“Jika resultan gaya pada suatu benda sama dengan nol, maka benda yang diam akan tetap diam dan benda yang bergerak akan tetap bergerak dengan kecepatan tetap”
+b. Bunyi Hukum Newton 2
+“Percepatan sebuah benda berbanding lurus dengan gaya total yang bekerja padanya dan berbanding terbalik dengan massanya. Arah percepatan sama dengan arah gaya total yang bekerja padanya”
+c. Bunyi Hukum Newton 3
+“Ketika suatu benda memberikan gaya pada benda kedua, benda kedua tersebut memberikan gaya yang sama besar tetapi berlawanan arah terhadap benda pertama”
+",
+            "img": "https://rumus.co.id/wp-content/uploads/2018/11/Hukum-Newton-1-2-3-Pengertian-Bunyi-Rumus-Contoh.png"
+        },
+	
+	 {
+            "name": "Hukum OHM",
+            "description": "Bunyi Hukum Ohm :
+“Besar arus listrik (I) yang mengalir melalui sebuah penghantar atau Konduktor akan berbanding lurus dengan beda potensial / tegangan (V) yang diterapkan kepadanya dan berbanding terbalik dengan hambatannya (R)”
+Sebuah benda penghantar dikatakan mematuhi hukum Ohm apabila nilai resistansinya tidak bergantung terhadap besar dan polaritas beda potensial yang dikenakan kepadanya.[1] Walaupun pernyataan ini tidak selalu berlaku untuk semua jenis penghantar, tetapi istilah "hukum" tetap digunakan dengan alasan sejarah.
+Hukum ini dicetuskan oleh Georg Simon Ohm, seorang fisikawan dari Jerman pada tahun 1825 dan dipublikasikan pada sebuah paper yang berjudul The Galvanic Circuit Investigated Mathematically pada tahun 1827.
+",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Ohms_law_voltage_source.svg/1200px-Ohms_law_voltage_source.svg.png"
+        }
+]
