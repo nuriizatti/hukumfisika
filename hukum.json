@@ -13,7 +13,7 @@
 	
 	{
             "name": "Hukum Boyle-Gay-Lussac",
-            "description": "Bunyi Hukum Boyle-Gay-Lussac :“Pada suhu konstan, tekanan gas di dalam ruang tertutup berbanding terbalik dengan volumenya. Pada tekanan konstan, volume gas berbanding lurus dengan suhunya. Pada volume konstan, tekanan gas berbanding lurus dengan suhunya”.Hukum Boyle-Gay Lussac secara matematis dituliskan sebagai berikut :
+            "description": "Bunyi Hukum Boyle-Gay-Lussac :“Pada suhu konstan, tekanan gas di dalam ruang tertutup berbanding terbalik dengan volumenya. Pada tekanan konstan, volume gas berbanding lurus dengan suhunya. Pada volume konstan, tekanan gas berbanding lurus dengan suhunya”.Hukum Boyle-Gay Lussac secara matematis dituliskan sebagai berikut :",
 "description":"dimana",
 "description": "T1 = suhu awal (K)",
 "description":"T2 = suhu akhir (K)",
@@ -69,7 +69,7 @@
 	{
             "name": "hukum Newton",
             "description": "a. Bunyi Hukum Newton 1",
-"description":"Jika resultan gaya pada suatu benda sama dengan nol, maka benda yang diam akan tetap diam dan benda yang bergerak akan tetap bergerak dengan kecepatan tetap”
+"description":"Jika resultan gaya pada suatu benda sama dengan nol, maka benda yang diam akan tetap diam dan benda yang bergerak akan tetap bergerak dengan kecepatan tetap”",
 "description":"b. Bunyi Hukum Newton 2",
 "description":"Percepatan sebuah benda berbanding lurus dengan gaya total yang bekerja padanya dan berbanding terbalik dengan massanya. Arah percepatan sama dengan arah gaya total yang bekerja padanya”",
 "description":"c. Bunyi Hukum Newton 3",
